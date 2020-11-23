@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&family=Roboto+Condensed:wght@400;700&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Freckle Face', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+h2, p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
